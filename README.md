@@ -1,6 +1,7 @@
 # Sparse-GPT-Pretraining
 A codebase for pretraining multi-billion-scale sparse GPTs.
-To set up your environment, see `environment_setup.md`.
+
+To set up the environment, see `./environment_setup.md`. To set up the dataset, see `./standalone/fineweb_edu_10b/`.
 
 # Citation
 If you find this repository helpful, please cite our work:
