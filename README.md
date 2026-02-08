@@ -15,8 +15,7 @@ If you find this repository helpful, please cite our work:
       primaryClass={cs.LG},
       url={https://arxiv.org/abs/2602.04870}, 
 }
-```
-```
+
 @software{cui2025sparse,
   title  = {Sparse-GPT-Pretraining: A codebase for pretraining multi-billion-scale sparse GPTs},
   author = {Cui, Chenwei and Herrera, Benjamin Joseph and Jackson, Rockwell and Kerner, Hannah},
