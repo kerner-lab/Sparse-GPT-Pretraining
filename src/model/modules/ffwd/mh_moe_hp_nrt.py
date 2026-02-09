@@ -373,6 +373,7 @@ class MHMoEHPNRT(nn.Module):
         # ----- #
         # Random Expert Assignment for Training Time Estimation
         # ----- #
+        # Note: Currently does not reflect the real training cost, therefore not in use at the moment.
         if self.config.runtime.get("enforce_random_routing", False):
             expert_assign = torch.randint(
                 low=0,
