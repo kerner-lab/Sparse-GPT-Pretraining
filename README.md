@@ -1,4 +1,4 @@
-# Sparse-GPT-Pretraining
+# Sparse-GPT-Pretraining (Open-source in progress)
 A codebase for pretraining multi-billion-scale sparse GPTs.
 
 To set up the environment, see `./environment_setup.md`. To set up the dataset, see `./standalone/fineweb_edu_10b/`.
@@ -15,8 +15,7 @@ If you find this repository helpful, please cite our work:
       primaryClass={cs.LG},
       url={https://arxiv.org/abs/2602.04870}, 
 }
-```
-```
+
 @software{cui2025sparse,
   title  = {Sparse-GPT-Pretraining: A codebase for pretraining multi-billion-scale sparse GPTs},
   author = {Cui, Chenwei and Herrera, Benjamin Joseph and Jackson, Rockwell and Kerner, Hannah},
