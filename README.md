@@ -1,5 +1,8 @@
 # Sparse-GPT-Pretraining (Open-source in progress)
-We are open-sourcing our codebase one aspect at a time, today and in the following days.
+```
+(260209) We are open-sourcing our codebase one aspect at a time, today and in the following days.
+```
+
 A codebase for pretraining multi-billion-scale sparse GPTs.
 
 To set up the environment, see `./environment_setup.md`. To set up the dataset, see `./standalone/fineweb_edu_10b/`.
